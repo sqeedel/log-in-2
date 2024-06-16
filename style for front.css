@@ -1,0 +1,24 @@
+button {
+    background-color: coral;
+    color:white;
+    padding:10px 30px;
+   border-width: 10;
+   border-color: white;
+   cursor:pointer;
+}
+div 
+{
+transform: 100px 200px;
+
+
+}
+form {
+    background-color: lightblue;
+    padding:50px;
+    width: 320px;
+    min-height: 320px;
+    text-align: left;
+    position: relative;
+    top: 30px;
+    left: 600px;
+    transform: 100px 200px;
